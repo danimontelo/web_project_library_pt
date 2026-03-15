@@ -361,10 +361,12 @@
 .footer__column_content_hours {
   flex: 0 0 auto;
   margin-right: 80px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
   flex: 0 0 auto;
+  margin-left: 80px;
 }
 
 .footer__logo {
